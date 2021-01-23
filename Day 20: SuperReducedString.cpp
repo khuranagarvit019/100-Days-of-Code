@@ -14,5 +14,6 @@ int main() {
     if (s.length() == 0) {
     cout<<"Empty String";
     }
+    
     return 0;
 }
